@@ -1,5 +1,8 @@
 ![Banner](31815b2f755e58836c603c02b3c7baad.gif)
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Algoritma+Pemrograman" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=50&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=2000&lines=Randi+Proska+Sandra+S.Pd,+M.Sc" alt="Typing SVG" /></a>
+
 > ```py
 > Nama : Fachry Yura Pratama
 > NIM  : 24343006
@@ -10,8 +13,6 @@
   <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
   </div>
-
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>    Algoritma_Modul
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Modul 1
 #Apa itu Algoritma?
